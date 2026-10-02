@@ -18,7 +18,7 @@ It casts, clicks SHAKE, plays the reeling bar and keeps a tally of what you catc
 
 <br>
 
-[![Watch the presentation](https://img.youtube.com/vi/jve5t_S7NYY/maxresdefault.jpg)](https://www.youtube.com/watch?v=jve5t_S7NYY)
+[Watch the presentation!](https://github.com/user-attachments/assets/7be4fe23-ae26-4a2e-a91a-d5a45eb2adf9)
 
 </div>
 
