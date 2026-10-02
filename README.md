@@ -18,7 +18,7 @@ It casts, clicks SHAKE, plays the reeling bar and keeps a tally of what you catc
 
 <br>
 
-<img src="media/screenshots/dashboard.png" width="860" alt="The Fishing page: live session numbers and a table of every catch">
+[![Watch the presentation](https://img.youtube.com/vi/jve5t_S7NYY/maxresdefault.jpg)](https://www.youtube.com/watch?v=jve5t_S7NYY)
 
 </div>
 
