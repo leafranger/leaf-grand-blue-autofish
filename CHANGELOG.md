@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.1 - 2026-10-02
+
+- **Fixed: the app not opening after a browser download.** On some PCs the first start failed with an error mentioning `Python.Runtime.Loader.Initialize`, because Windows marks files from a download and the .NET part of the app refuses to load marked files. The app now clears that mark on its own files when it starts, and shows what to do if it still fails.
+- Error messages now point to the Discord server first.
+
 ## 0.1.0 - 2026-10-02
 
 First public release.

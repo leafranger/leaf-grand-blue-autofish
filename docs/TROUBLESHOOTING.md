@@ -4,6 +4,8 @@ Find your problem below. If none of it helps, ask on [Discord](https://discord.g
 
 ## The app does not open, or the window is blank
 
+- **An error mentioning `Python.Runtime.Loader.Initialize` (or "Windows is blocking this program's files").** Windows marks files from a browser download as coming from the Internet, and a part of the app refuses to load marked files. Version 0.1.1 and later clear that mark by themselves. On 0.1.0, or if it still happens: right-click the **.zip you downloaded**, choose **Properties**, tick **Unblock** at the bottom, press OK, and unzip it again into a new folder. If you already unzipped it, open PowerShell and run `Get-ChildItem -Recurse "C:\path\to\the\folder" | Unblock-File` (with the real folder path), then start the app again.
+
 - **Unzip the whole folder** and run the `.exe` from inside it. Running it from inside the zip, or moving the `.exe` somewhere else on its own, leaves out the files it needs (for example `python312.dll`).
 - **Do not put it in `C:\Program Files`.** The app saves its files next to itself and needs a folder you can write to, such as Documents.
 - **An antivirus may have removed or blocked a file.** Look in your antivirus's quarantine, restore the app's files, and add its folder as an exception, or re-download and unzip again.

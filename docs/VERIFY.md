@@ -11,26 +11,40 @@ Only download from this repository's [Releases page](../../../releases). Do not 
 Every release lists the SHA256 of its zip in the release notes and in `SHA256SUMS.txt`. The current release's is:
 
 ```
-0e3c31ac212c18b30f72d552d2db7c4558daf35a91d8b7aba1f6d984b88736d1  Leafs-Grand-Blue-Autofish-v0.1.0.zip
+54b8fa6de1fa26a43c25b3e1d2cbaff2648f08a3a0f3cc59352357d571e187b6  Leafs-Grand-Blue-Autofish-v0.1.1.zip
 ```
 
 To check yours, open PowerShell in the folder with the zip and run:
 
 ```powershell
-Get-FileHash .\Leafs-Grand-Blue-Autofish-v0.1.0.zip -Algorithm SHA256
+Get-FileHash .\Leafs-Grand-Blue-Autofish-v0.1.1.zip -Algorithm SHA256
 ```
 
 The `Hash` it prints must match exactly. If it does not, delete the file and download it again.
 
 ## 3. Check the antivirus scan
 
-The program inside the zip, `Leaf's Grand Blue Autofish.exe`, was scanned with VirusTotal: [see the result](https://www.virustotal.com/gui/file/2c3a91db6cf5e214633d2be43f505d7a68add29721740f394b99b38093404ab9). Its SHA256 is:
+The program inside the zip, `Leaf's Grand Blue Autofish.exe`, was scanned with VirusTotal: [see the result](https://www.virustotal.com/gui/file/bf76e87231cecfa6f2e16bff1c0f57c2b0e6c2509278e0f61d31135e7bf27417). Its SHA256 is:
 
 ```
-2c3a91db6cf5e214633d2be43f505d7a68add29721740f394b99b38093404ab9
+bf76e87231cecfa6f2e16bff1c0f57c2b0e6c2509278e0f61d31135e7bf27417
 ```
 
-**1 of 71 engines flagged it**: McAfee, under the name `Ti!2C3A91DB6CF5`. That name is made from the file's hash and not from a known malware family, which suggests a reputation-based flag on a new, unsigned program that few people have run yet. The other 70 engines did not flag it. If you want to be sure, compare the hash on the VirusTotal page with the one above, and decide for yourself. A program that sends clicks and listens for hotkeys can trip antivirus heuristics, and the app being unsigned makes that more likely.
+Open the result and read it for yourself. If you want to be sure, compare the hash on the VirusTotal page with the one above.
+
+## If an antivirus flags it
+
+Antivirus programs sometimes flag a safe file. This is called a false positive, and it is likely for this app: it sends mouse clicks and listens for hotkeys, which is also what some unwanted software does, and it is new and unsigned, so security tools have little history to judge it by.
+
+Usually you can ignore a flag when **all** of these are true:
+
+- Only one or a few engines out of the many on VirusTotal flag it, not most of them.
+- The name is generic or made from the file's hash (for example `Ti!` followed by letters and digits, `Heur`, `Generic`, `Suspicious`, `ML` or `Unsafe`) and not the name of a known malware family.
+- The SHA256 of your zip matches the one above, so you know it is the file released here.
+
+If many engines flag it, a named malware family appears, or your SHA256 does not match, do not run it: delete it and ask on the [Discord server](https://discord.gg/AC8qRsUHsc).
+
+If your own antivirus blocks it, you can report it as a false positive to that vendor. You decide whether to trust the app.
 
 ## About "Windows protected your PC"
 

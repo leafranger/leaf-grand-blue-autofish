@@ -4,7 +4,7 @@ From download to your first fishing session. It takes about ten minutes, most of
 
 ## 1. Install
 
-1. Download `Leafs-Grand-Blue-Autofish-v0.1.0.zip` from the [latest release](../../../releases/latest). If you want to check it first, see [Verify your download](VERIFY.md).
+1. Download `Leafs-Grand-Blue-Autofish-v0.1.1.zip` from the [latest release](../../../releases/latest). If you want to check it first, see [Verify your download](VERIFY.md).
 2. Unzip the **whole folder** to a place you can write to, such as `Documents`. Do not run it from inside the zip, do not move the `.exe` out of its folder, and avoid `C:\Program Files`. The app saves its settings, calibration and sessions next to itself.
 3. Double-click **Leaf's Grand Blue Autofish.exe**.
 

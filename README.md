@@ -7,7 +7,7 @@
 **A free fishing assistant for Grand Blue on Roblox.**
 It casts, clicks SHAKE, plays the reeling bar and keeps a tally of what you catch.
 
-[![Latest release](https://img.shields.io/github/v/release/leafranger/leaf-grand-blue-autofish?label=release&color=3fb5e8)](../../releases/latest) 
+[![Latest release](https://img.shields.io/github/v/release/leafranger/leaf-grand-blue-autofish?label=release&color=3fb5e8)](../../releases/latest)
 ![Windows 10 and 11](https://img.shields.io/badge/Windows-10%20%7C%2011-3fb5e8)
 ![Free, source not published](https://img.shields.io/badge/free-source%20not%20published-3fb5e8)
 [![Discord](https://img.shields.io/badge/Discord-join%20the%20server-5865F2?logo=discord&logoColor=white)](https://discord.gg/AC8qRsUHsc)
@@ -50,12 +50,12 @@ It looks at your screen the way you do, then moves the mouse and presses keys. I
 
 ## Install
 
-1. Download `Leafs-Grand-Blue-Autofish-v0.1.0.zip` from the [latest release](../../releases/latest).
+1. Download `Leafs-Grand-Blue-Autofish-v0.1.1.zip` from the [latest release](../../releases/latest).
 2. Unzip the **whole folder** somewhere you can write to, such as Documents. Not inside the zip, and not in "Program Files".
 3. Double-click **Leaf's Grand Blue Autofish.exe**, read and accept the licence, and follow the calibration.
 4. In Roblox, press **F8** to start and stop fishing.
 
-The zip's SHA256 is `0e3c31ac212c18b30f72d552d2db7c4558daf35a91d8b7aba1f6d984b88736d1`. [How to check it](docs/VERIFY.md).
+The zip's SHA256 is `54b8fa6de1fa26a43c25b3e1d2cbaff2648f08a3a0f3cc59352357d571e187b6`. [How to check it](docs/VERIFY.md).
 
 > **"Windows protected your PC" or an antivirus warning?** The app is not code-signed, because certificates cost money and this is a free project. Any program that clicks the mouse and listens for hotkeys can look suspicious to antivirus software. [Here is how to verify your download](docs/VERIFY.md) before you run it.
 
