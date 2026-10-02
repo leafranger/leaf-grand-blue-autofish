@@ -7,7 +7,7 @@
 **A free fishing assistant for Grand Blue on Roblox.**
 It casts, clicks SHAKE, plays the reeling bar and keeps a tally of what you catch.
 
-[![Latest release](https://img.shields.io/github/v/release/leafranger/leaf-grand-blue-autofish?label=release&color=3fb5e8)](../../releases/latest)
+[![Latest release](https://img.shields.io/github/v/release/leafranger/leaf-grand-blue-autofish?label=release&color=3fb5e8)](../../releases/latest) 
 ![Windows 10 and 11](https://img.shields.io/badge/Windows-10%20%7C%2011-3fb5e8)
 ![Free, source not published](https://img.shields.io/badge/free-source%20not%20published-3fb5e8)
 [![Discord](https://img.shields.io/badge/Discord-join%20the%20server-5865F2?logo=discord&logoColor=white)](https://discord.gg/AC8qRsUHsc)
