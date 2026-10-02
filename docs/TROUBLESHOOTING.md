@@ -1,6 +1,6 @@
 # Troubleshooting
 
-Find your problem below. If none of it helps, [open an issue](../../../issues/new/choose) and fill in the form.
+Find your problem below. If none of it helps, ask on [Discord](https://discord.gg/AC8qRsUHsc), the quickest place to get an answer, or [open an issue](../../../issues/new/choose) and fill in the form (issues are read, but less often).
 
 ## The app does not open, or the window is blank
 
@@ -64,4 +64,4 @@ Close the app and delete `config.json`, `calibration_profiles.json` and the `ass
 
 ## What to put in a bug report
 
-The [issue form](../../../issues/new/choose) asks for the version, your Windows version, the game's resolution, what happened and `crash-log.txt` if there is one. A screenshot of the app window helps. Please do not post pictures that show other players' names or chat.
+On [Discord](https://discord.gg/AC8qRsUHsc) or in the [issue form](../../../issues/new/choose), include the version, your Windows version, the game's resolution, what happened and `crash-log.txt` if there is one. A screenshot of the app window helps. Please do not post pictures that show other players' names or chat.

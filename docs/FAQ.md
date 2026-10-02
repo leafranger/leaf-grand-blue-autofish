@@ -53,6 +53,8 @@ No. The app is free to use, but its source is not published. See the [licence](.
 
 No. If it saved you time, a tip is welcome and never expected: [Ko-fi](https://ko-fi.com/leafranger).
 
+Supporters are meant to be able to get future updates early. Every update is released to the public eventually. Early builds are for the supporters who receive them and are not to be shared before their public release.
+
 ## I found a bug or I need help
 
-First try [Troubleshooting](TROUBLESHOOTING.md). If that does not solve it, [open an issue](../../../issues/new/choose) and fill in the form. If the app closed unexpectedly, attach the `crash-log.txt` that appears next to the exe.
+First try [Troubleshooting](TROUBLESHOOTING.md). If that does not solve it, ask on [Discord](https://discord.gg/AC8qRsUHsc), the quickest place to get an answer, or [open an issue](../../../issues/new/choose) and fill in the form (issues are read, but less often). If the app closed unexpectedly, attach the `crash-log.txt` that appears next to the exe.

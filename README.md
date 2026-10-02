@@ -10,8 +10,11 @@ It casts, clicks SHAKE, plays the reeling bar and keeps a tally of what you catc
 [![Latest release](https://img.shields.io/github/v/release/leafranger/leaf-grand-blue-autofish?label=release&color=3fb5e8)](../../releases/latest)
 ![Windows 10 and 11](https://img.shields.io/badge/Windows-10%20%7C%2011-3fb5e8)
 ![Free, source not published](https://img.shields.io/badge/free-source%20not%20published-3fb5e8)
+[![Discord](https://img.shields.io/badge/Discord-join%20the%20server-5865F2?logo=discord&logoColor=white)](https://discord.gg/AC8qRsUHsc)
 
-[**Download**](../../releases/latest) &nbsp;·&nbsp; [Getting started](docs/GETTING_STARTED.md) &nbsp;·&nbsp; [Hotkeys](docs/HOTKEYS.md) &nbsp;·&nbsp; [FAQ](docs/FAQ.md) &nbsp;·&nbsp; [Help](docs/TROUBLESHOOTING.md)
+[**Download**](../../releases/latest) &nbsp;·&nbsp; [Getting started](docs/GETTING_STARTED.md) &nbsp;·&nbsp; [Hotkeys](docs/HOTKEYS.md) &nbsp;·&nbsp; [FAQ](docs/FAQ.md) &nbsp;·&nbsp; [Help](docs/TROUBLESHOOTING.md) &nbsp;·&nbsp; [Discord](https://discord.gg/AC8qRsUHsc)
+
+<a href="https://ko-fi.com/leafranger"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"></a>
 
 <br>
 
@@ -63,7 +66,7 @@ The zip's SHA256 is `0e3c31ac212c18b30f72d552d2db7c4558daf35a91d8b7aba1f6d984b88
 - Microsoft Edge WebView2, which comes with Windows 10 and 11
 - The Microsoft Visual C++ runtime, which most PCs have. If yours does not, the first start explains it and can fetch it for you.
 
-Tested on Windows 10 (version 22H2).
+You do not need to install Python or anything else: everything the app needs is in the zip. Tested on Windows 10 (version 22H2).
 
 ## Help
 
@@ -71,11 +74,14 @@ Tested on Windows 10 (version 22H2).
 - [Hotkeys](docs/HOTKEYS.md)
 - [FAQ](docs/FAQ.md): safety, bans, antivirus warnings, your data
 - [Troubleshooting](docs/TROUBLESHOOTING.md): when a calibration step will not pass
-- [Report a problem](../../issues/new/choose)
+- **[Discord](https://discord.gg/AC8qRsUHsc)**: the quickest place to ask a question or report a problem
+- [Report a problem on GitHub](../../issues/new/choose): issues are read, but less often than Discord
 
 ## Support the project
 
 It is free and made by one person in their spare time. If it saved you some fishing, a tip is welcome and never expected: [Ko-fi](https://ko-fi.com/leafranger) · [leafranger.dev](https://leafranger.dev/donate).
+
+**About future updates:** supporters are meant to be able to get new builds early. Every update is released to everyone eventually, so nothing is kept behind a paywall for good. Early builds are for the supporters who receive them and are not to be shared before their public release.
 
 ## Licence and credits
 

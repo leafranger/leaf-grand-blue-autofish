@@ -2,9 +2,14 @@
 
 ## Reporting a problem
 
-If you find a security problem in Leaf's Grand Blue Autofish, please **do not open a public issue**. Write to **leafrangerit@gmail.com** with what you found and how to reproduce it. You will get a reply as soon as it can be read; this is a one-person project, so please be patient.
+If you find a security problem in Leaf's Grand Blue Autofish:
 
-For ordinary bugs, use the [issue form](../../issues/new/choose).
+1. **Report it on [Discord](https://discord.gg/AC8qRsUHsc) first.** That is where it gets seen fastest. If it is sensitive, say you have a security problem and ask to talk privately instead of posting the details in a public channel.
+2. **Email only if that does not work** (no answer, or it cannot wait): **leafrangerit@gmail.com**, with what you found and how to reproduce it.
+
+Please do not post details of a security problem in a public GitHub issue. Public issues are read less often than Discord.
+
+For ordinary bugs, ask on Discord or use the [issue form](../../issues/new/choose).
 
 ## What the app does and does not do
 

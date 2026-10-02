@@ -22,6 +22,15 @@ Get-FileHash .\Leafs-Grand-Blue-Autofish-v0.1.0.zip -Algorithm SHA256
 
 The `Hash` it prints must match exactly. If it does not, delete the file and download it again.
 
+## 3. Check the antivirus scan
+
+The program inside the zip, `Leaf's Grand Blue Autofish.exe`, was scanned with VirusTotal: [see the result](https://www.virustotal.com/gui/file/2c3a91db6cf5e214633d2be43f505d7a68add29721740f394b99b38093404ab9). Its SHA256 is:
+
+```
+2c3a91db6cf5e214633d2be43f505d7a68add29721740f394b99b38093404ab9
+```
+
+**1 of 71 engines flagged it**: McAfee, under the name `Ti!2C3A91DB6CF5`. That name is made from the file's hash and not from a known malware family, which suggests a reputation-based flag on a new, unsigned program that few people have run yet. The other 70 engines did not flag it. If you want to be sure, compare the hash on the VirusTotal page with the one above, and decide for yourself. A program that sends clicks and listens for hotkeys can trip antivirus heuristics, and the app being unsigned makes that more likely.
 
 ## About "Windows protected your PC"
 
