@@ -1,0 +1,58 @@
+LEAF'S GRAND BLUE AUTOFISH - END USER LICENSE AGREEMENT
+
+Copyright (c) 2026 Mirko "Leafranger" Cisternino. All rights reserved.
+Contact: leafrangerit@gmail.com - https://leafranger.dev
+
+By installing or running Leaf's Grand Blue Autofish (the "App") you agree to this agreement. If you do not
+agree, do not use it.
+
+1. WHAT YOU GET
+The App is free of charge. You get a personal, non-exclusive, non-transferable
+licence to run it on your own computer for your own non-commercial use.
+
+2. WHAT YOU MAY NOT DO
+- Modify, repackage, resell or redistribute the App, or any part of it,
+  in any form. Sharing the link to the official download page is fine.
+- Share early-access or supporter builds with anyone else.
+- Reverse engineer, decompile or disassemble it, except where the law
+  expressly allows this despite this clause.
+- Use it for commercial purposes (for example, running it for other people
+  for money).
+
+3. WHAT THIS TOOL DOES, AND THE RISK
+The App plays a Roblox fishing minigame for you. It only looks at your screen
+and sends mouse and keyboard input. It never touches the game's files or
+memory.
+
+Using automation, macros or bots may go against the Terms of Use of Roblox and
+of individual Roblox games, whether or not those rules are enforced. USING
+THE APP MAY GET YOUR ACCOUNT WARNED, SUSPENDED OR BANNED. You accept that risk
+for your own account. The author is not responsible for any action taken
+against you or your account.
+
+4. NO AFFILIATION
+The App is an independent fan-made tool. It is not affiliated with,
+authorised, sponsored or endorsed by Roblox Corporation or by the developers of
+any game it is used with. "Roblox" and game names are trademarks of their
+respective owners and are used here only to describe what the tool works with.
+
+5. NO WARRANTY, LIMITED LIABILITY
+The App is provided "as is", without warranty of any kind. It sends real
+mouse and keyboard input, and you are responsible for supervising it. To the
+maximum extent permitted by law, the author is not liable for any loss or
+damage arising from its use. Nothing in this agreement excludes or limits
+liability that cannot be excluded by law (for example liability for intent or
+gross negligence), and it does not affect any mandatory consumer rights you
+have in your country.
+
+6. THIRD-PARTY MATERIAL
+The App includes open-source components, listed with their licences in
+THIRD_PARTY_NOTICES.txt. Those components stay under their own licences.
+
+7. ENDING THIS AGREEMENT
+This agreement ends automatically if you break it. Then you must stop using
+the App and delete your copies.
+
+8. LAW
+This agreement is governed by Italian law. Mandatory consumer-protection rules
+of the country where you live still apply to you.

@@ -1,0 +1,43 @@
+LEAF'S GRAND BLUE AUTOFISH - PRIVACY NOTICE
+
+Contact: Mirko "Leafranger" Cisternino, leafrangerit@gmail.com
+
+SHORT VERSION
+Leaf's Grand Blue Autofish runs on your computer. It has no accounts, no analytics, no
+telemetry and no crash reporting. Nothing about you or how you play is sent
+to the author or to anyone else, so the author does not collect or process
+your personal data.
+
+WHAT HAPPENS ON THE INTERNET
+- The app itself makes no network connections: no update check, no
+  downloads, nothing sent. The one exception: if your PC lacks the Microsoft
+  Visual C++ runtime, the first start offers to download it. Only if you click
+  "Download and install it for me" does the app fetch Microsoft's official
+  installer from aka.ms (Microsoft sees your IP address, as with any
+  download), check that it is signed by Microsoft, and run it. Nothing is sent
+  to the author.
+- The Credits page and the optional support prompt contain links (Ko-fi,
+  leafranger.dev). They open in your browser only when you click them. Those
+  sites have their own privacy policies.
+
+WHAT IT SAVES ON YOUR COMPUTER (inside the app's folder)
+- Your settings and screen calibration (config, calibration profiles).
+- Fishing history: catch log, saved sessions.
+- Screenshots of the game window used to read the screen. These are processed
+  in memory. They are only kept if you turn on the debug options (for example
+  "Catch screenshots"), or when the app saves diagnostic pictures after a
+  detection problem. Such pictures can show other players' names or chat if
+  they are visible in the game window.
+- Small local files for the app itself (theme, support-prompt answers).
+
+None of this is uploaded. You can delete any of it at any time by deleting
+the folders/files in the app's folder (sessions, recordings,
+catch_samples, rarity_dataset, shakereports, shakecalib, and the *.json and
+*.jsonl files). Deleting the whole app folder removes everything.
+If you send a diagnostic report or screenshot to the author for support, you
+are choosing to share it; check it for personal information first.
+
+YOUR RIGHTS
+Because the author holds none of your data, there is nothing to access or
+erase on his side. If you have a privacy question, write to the contact
+address above.
